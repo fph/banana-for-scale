@@ -18,5 +18,5 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourname/banana-for-scale"
-Repository = "https://github.com/yourname/banana-for-scale"
+Homepage = "https://github.com/fph/banana-for-scale"
+Repository = "https://github.com/fph/banana-for-scale"
