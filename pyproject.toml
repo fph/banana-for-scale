@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "banana-for-scale"
+version = "0.1.0"
+description = "A banana-for-scale themed colormap for Matplotlib"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+  { name = "Federico Poloni", email = "federico.poloni@unipi.it" }
+]
+
+dependencies = [
+  "matplotlib>=3.5"
+]
+
+[project.urls]
+Homepage = "https://github.com/yourname/banana-for-scale"
+Repository = "https://github.com/yourname/banana-for-scale"
